@@ -1,8 +1,6 @@
 
 # USD to BDT Currency Converter
 
-Welcome to the **USD to BDT Currency Converter**! 🌟
-
 ## Overview
 
 This app is a simple yet practical tool developed using Flutter. The purpose of this project was to apply my learning and create a functional app. The converter allows users to easily convert US Dollars (USD) to Bangladeshi Taka (BDT), using a fixed exchange rate of 1 USD = 117 BDT.
